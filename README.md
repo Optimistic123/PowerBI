@@ -1,2 +1,2 @@
 # PowerBI
-geeting started with PowerBI
+Geeting started with PowerBI
